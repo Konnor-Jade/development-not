@@ -49,6 +49,13 @@
 ### Python 工具
 - [uv - 现代 Python 包管理工具](./uv-introduction.md)
 
+### 区块链开发
+- [Blockchain - 区块链开发笔记](./blockchain/)
+  - [Foundry - 以太坊开发工具包](./blockchain/foundry/)
+    - 快速开始和安装指南
+    - Forge 测试、Cast 交互、Anvil 本地节点
+    - 完整的命令速查表和最佳实践
+
 ## 📝 说明
 
 本仓库用于记录日常开发中遇到的工具、技术和解决方案，便于快速查阅和复习。
