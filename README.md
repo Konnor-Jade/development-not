@@ -34,6 +34,11 @@
   - thefuck - 智能命令纠错工具
   - 快速安装和配置指南
 
+- [chsrc - 全平台换源工具](./chsrc-guide.md)
+  - 一键更换镜像源，自动测速
+  - 支持 100+ 软件和编程语言
+  - Homebrew、pip、npm、cargo 等换源指南
+
 ### 容器化工具
 - [Docker - 容器化平台速查手册](./docker/)
   - Docker 命令速查表
