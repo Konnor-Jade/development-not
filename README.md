@@ -15,6 +15,11 @@
   - Powerline 风格美化
   - 多语言和环境自动检测
 
+- [命令行效率工具指南](./cli-tools-guide.md)
+  - tldr - 简化版命令手册（支持中文）
+  - thefuck - 智能命令纠错工具
+  - 快速安装和配置指南
+
 ### 容器化工具
 - [Docker - 容器化平台速查手册](./docker/)
   - Docker 命令速查表
