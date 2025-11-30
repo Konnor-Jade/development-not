@@ -15,6 +15,13 @@
   - Powerline 风格美化
   - 多语言和环境自动检测
 
+### 容器化工具
+- [Docker - 容器化平台速查手册](./docker/)
+  - Docker 命令速查表
+  - Docker Compose 配置指南
+  - 数据库、Web 服务器、应用栈等实用示例
+  - Dockerfile 最佳实践
+
 ### Python 工具
 - [uv - 现代 Python 包管理工具](./uv-introduction.md)
 

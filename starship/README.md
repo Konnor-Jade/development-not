@@ -40,16 +40,19 @@ source ~/.zshrc  # 或 source ~/.bashrc
 在你的 shell 配置文件中添加初始化脚本：
 
 **Zsh (~/.zshrc)**
+
 ```bash
 eval "$(starship init zsh)"
 ```
 
 **Bash (~/.bashrc)**
+
 ```bash
 eval "$(starship init bash)"
 ```
 
 **Fish (~/.config/fish/config.fish)**
+
 ```fish
 starship init fish | source
 ```
@@ -73,6 +76,7 @@ starship init fish | source
 ```
 
 配色分段：
+
 - 🟠 **橙色**: 系统信息（OS + 用户名）
 - 🟡 **黄色**: 当前目录
 - 🟢 **青色**: Git 分支和状态
@@ -87,20 +91,25 @@ starship init fish | source
 ## 🎯 主要模块
 
 ### 系统信息
+
 - OS 图标（自动识别操作系统）
 - 用户名显示
 
 ### 目录显示
+
 - 路径缩短（显示最后 3 层）
 - 特殊目录图标（Documents、Downloads 等）
 
 ### Git 集成
+
 - 分支名显示
 - 状态指示器（修改、新增、删除等）
 - 远程同步状态
 
 ### 编程语言
+
 支持自动检测：
+
 - Node.js / JavaScript
 - Python
 - Rust
@@ -111,6 +120,7 @@ starship init fish | source
 - Haskell
 
 ### 环境管理
+
 - Docker 容器上下文
 - Conda 虚拟环境
 - Pixi 项目环境
