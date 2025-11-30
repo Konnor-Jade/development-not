@@ -1,0 +1,5 @@
+require("configs.path")
+require("configs.basic")
+require("configs.mappings")
+require("configs.symbols")
+require("configs.autocmds")
